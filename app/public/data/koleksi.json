@@ -4,7 +4,7 @@
     "judul": "Teruslah Bodoh Jangan Pintar",
     "kategori": "Novel",
     "penulis": "Tere Liye",
-    "tahun terbit": 2024,
+    "tahunTerbit": 2024,
     "status": "sudah dibaca"
   },
   {
@@ -12,7 +12,7 @@
     "judul": "Salah asuhan",
     "kategori": "Novel",
     "penulis": "Abdoel Moeis",
-    "tahun terbit": 1928,
+    "tahunTerbit": 1928,
     "status": "sudah dibaca"
   },
   {
@@ -20,7 +20,7 @@
     "judul": "Jejak Sang Ajudan [Sebuah Biografi Pierre Tendean]",
     "kategori": "Biografi",
     "penulis": "Agus Lisna & Ahmad Nowmenta Putra",
-    "tahun terbit": 2018,
+    "tahunTerbit": 2018,
     "status": "belum dibaca"
   },
   {
@@ -28,7 +28,7 @@
     "judul": "Hunter X Hunter Vol. 1",
     "kategori": "Komik",
     "penulis": "Yoshihiro Togashi",
-    "tahun terbit": 1998,
+    "tahunTerbit": 1998,
     "status": "sedang dibaca"
   },
   {
@@ -36,7 +36,7 @@
     "judul": "Charlie Brown and Friends",
     "kategori": "Komik",
     "penulis": "Charles M. Schulz",
-    "tahun terbit": 1968,
+    "tahunTerbit": 1968,
     "status": "ingin dibeli"
   },
   {
@@ -44,7 +44,7 @@
     "judul": "Sebuah Seni untuk Bersikap Bodo Amat",
     "kategori": "Pengembangan Diri (Self-Improvement)",
     "penulis": "Mark Manson",
-    "tahun terbit": 2016,
+    "tahunTerbit": 2016,
     "status": "sedang dibaca"
   },
   {
@@ -52,7 +52,7 @@
     "judul": "Tuhan, Maaf, Kami Sedang Sibuk",
     "kategori": "Religi",
     "penulis": "Ahmad Rifa'i Rif'an",
-    "tahun terbit": 2011,
+    "tahunTerbit": 2011,
     "status": "ingin dibeli"
   },
   {
@@ -60,7 +60,7 @@
     "judul": "Jangan Mati Sebelum Berguna",
     "kategori": "Puisi",
     "penulis": "Fitri Nganthi Wani",
-    "tahun terbit": 2020,
+    "tahunTerbit": 2020,
     "status": "ingin dibeli"
   },
   {
@@ -68,7 +68,7 @@
     "judul": "Le Petit Prince",
     "kategori": "Novel",
     "penulis": "Antoine de Saint-Exupéry",
-    "tahun terbit": 1943,
+    "tahunTerbit": 1943,
     "status": "belum dibaca"
   },
   {
@@ -76,7 +76,7 @@
     "judul": "Hidup Sekali, Berarti, Lalu Mati",
     "kategori": "Religi",
     "penulis": "Ahmad Rifa'i Rif'an",
-    "tahun terbit": 2012,
+    "tahunTerbit": 2012,
     "status": "belum dibaca"
   }
 ]
