@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Teruslah Bodoh Jangan Pintar",
+    "kategori": "Novel",
+    "penulis": "Tere Liye",
+    "tahun terbit": 2024,
+    "status": "sudah dibaca"
+  },
+  {
+    "id": "2",
+    "judul": "Salah asuhan",
+    "kategori": "Novel",
+    "penulis": "Abdoel Moeis",
+    "tahun terbit": 1928,
+    "status": "sudah dibaca"
+  },
+  {
+    "id": "3",
+    "judul": "Jejak Sang Ajudan [Sebuah Biografi Pierre Tendean]",
+    "kategori": "Biografi",
+    "penulis": "Agus Lisna & Ahmad Nowmenta Putra",
+    "tahun terbit": 2018,
+    "status": "belum dibaca"
+  },
+  {
+    "id": "4",
+    "judul": "Hunter X Hunter Vol. 1",
+    "kategori": "Komik",
+    "penulis": "Yoshihiro Togashi",
+    "tahun terbit": 1998,
+    "status": "sedang dibaca"
+  },
+  {
+    "id": "5",
+    "judul": "Charlie Brown and Friends",
+    "kategori": "Komik",
+    "penulis": "Charles M. Schulz",
+    "tahun terbit": 1968,
+    "status": "ingin dibeli"
+  },
+  {
+    "id": "6",
+    "judul": "Sebuah Seni untuk Bersikap Bodo Amat",
+    "kategori": "Pengembangan Diri (Self-Improvement)",
+    "penulis": "Mark Manson",
+    "tahun terbit": 2016,
+    "status": "sedang dibaca"
+  },
+  {
+    "id": "7",
+    "judul": "Tuhan, Maaf, Kami Sedang Sibuk",
+    "kategori": "Religi",
+    "penulis": "Ahmad Rifa'i Rif'an",
+    "tahun terbit": 2011,
+    "status": "ingin dibeli"
+  },
+  {
+    "id": "8",
+    "judul": "Jangan Mati Sebelum Berguna",
+    "kategori": "Puisi",
+    "penulis": "Fitri Nganthi Wani",
+    "tahun terbit": 2020,
+    "status": "ingin dibeli"
+  },
+  {
+    "id": "9",
+    "judul": "Le Petit Prince",
+    "kategori": "Novel",
+    "penulis": "Antoine de Saint-Exupéry",
+    "tahun terbit": 1943,
+    "status": "belum dibaca"
+  },
+  {
+    "id": "10",
+    "judul": "Hidup Sekali, Berarti, Lalu Mati",
+    "kategori": "Religi",
+    "penulis": "Ahmad Rifa'i Rif'an",
+    "tahun terbit": 2012,
+    "status": "belum dibaca"
   }
 ]
