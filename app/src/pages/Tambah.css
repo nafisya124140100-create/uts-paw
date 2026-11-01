@@ -3,6 +3,7 @@
   flex-direction: column;
   gap: 0.5rem;
   max-width: 480px;
+  padding: 1rem;
 }
 .formulir h1 {
   color: #587d30;
