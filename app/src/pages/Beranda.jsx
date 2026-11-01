@@ -1,15 +1,19 @@
 import mahasiswa from '../../mahasiswa.json'
 import { Link } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
+import './Beranda.css'
 
 export default function Beranda() {
   const { items, loading } = useKoleksi()
   const jumlahKategori = new Set(items.map((item) => item.kategori)).size
 
     return (
-        <section>
-        <h1>WebBook</h1>
-        <p>{mahasiswa.tema}</p>
+        <section className="beranda">
+            <div className="header-row">
+                <h1>WebBook |</h1>
+                <span className="sub-title">{mahasiswa.tema}</span>
+            </div>
+
          {loading ? (
         <p>Memuat ringkasan...</p>
         ) : (
@@ -17,7 +21,7 @@ export default function Beranda() {
             Ada {items.length} buku yang kamu punya dalam {jumlahKategori} kategori.
             </p>
         )}
-        <Link to="/koleksi">Lihat semua daftar buku</Link>
-        </section>
+        <Link to="/koleksi" className="btn-kotak">Lihat semua daftar buku</Link>
+        </section >
     )
 }
