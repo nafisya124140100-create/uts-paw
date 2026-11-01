@@ -1,0 +1,16 @@
+.tentang {
+  padding: 1rem;
+  max-width: 500px;
+}
+.tentang h1 {
+  color: #587d30;
+}
+.tentang dl {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.tentang a {
+  color: #587d30;
+}
