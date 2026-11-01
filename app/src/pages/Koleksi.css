@@ -1,0 +1,46 @@
+.koleksi {
+  padding: 1rem;
+}
+.koleksi h1 {
+  color: #587d30;
+}
+.alat-koleksi {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.alat-koleksi input,
+.alat-koleksi select {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+.daftar-kartu {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+.kartu {
+  background-color: #e9fbea;
+  border: 1px solid #04cb40;
+  padding: 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.kartu:hover {
+  background-color: #8caa6e;
+}
+.kartu h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #8caa6e;
+}
+.kartu:hover h3,
+.kartu:hover p {
+  color: #ffffff;
+}
+.kartu p {
+  margin: 0;
+  color: #666;
+}
