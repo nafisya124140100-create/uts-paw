@@ -1,10 +1,14 @@
-# Nama Aplikasi
+# WebBook
 
-**Nama:** Nafisya Ghalia
-**NIM:** 124140100
-**Kelas:** RB
-**Tema:** Rak
-**Deployment:** https://nafisya124140100-create.github.io/uts-paw/
+**Nama:** Nafisya Ghalia  
+
+**NIM:** 124140100  
+
+**Kelas:** RB  
+
+**Tema:** Rak Buku Pribadi  
+
+**Deployment:** https://nafisya124140100-create.github.io/uts-paw/  
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
@@ -19,9 +23,11 @@
 
 ## Menjalankan secara lokal
 
-cd app
-npm install
-npm run dev
+cd app  
+
+npm install  
+
+npm run dev  
 
 ## Konsep React yang Dipakai
 
