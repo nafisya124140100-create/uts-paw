@@ -1,5 +1,6 @@
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
+import './Detail.css'
 
 export default function Detail() {
   const { id } = useParams()
@@ -25,7 +26,7 @@ export default function Detail() {
   }
 
   return (
-    <section>
+    <section className='detail'>
       <h1>{item.judul}</h1>
       <dl>
         <dt>Kategori</dt>

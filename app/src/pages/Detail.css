@@ -1,0 +1,57 @@
+.detail {
+  padding: 1rem;
+  max-width: 600px;
+}
+.detail h1 {
+  color: #587d30;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #e9fbea;
+  padding-bottom: 0.5rem;
+}
+.detail dl {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1rem;
+  background-color: #f6fef1;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #587d30;
+  margin-bottom: 2rem;
+}
+.detail dt {
+  font-weight: bold;
+  color: #436347;
+}
+.detail dd {
+  margin: 0;
+  color: #333;
+}
+.aksi {
+  display: flex;
+  gap: 1rem;
+}
+.aksi button,
+.aksi a {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 1rem;
+  cursor: pointer;
+  border: 1px solid #587d30;
+  display: inline-block;
+}
+.aksi button {
+  color: #ff0000;
+  border-color: #fe0000;
+}
+.aksi button:hover {
+  background-color: #ff0000;
+  color: #fff;
+}
+.aksi a {
+  background-color: #587d30;
+  color: #fff;
+}
+.aksi a:hover {
+  background-color: #436347;
+}
