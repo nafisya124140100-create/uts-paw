@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
 import './Tambah.css'
 
-const AWAL = { judul: '', kategori: 'sudah dibaca', tahunTerbit: '', penulis: '', status: 'sedang' }
+const AWAL = { judul: '', kategori: 'Novel', tahunTerbit: '', penulis: '', status: 'sudah dibaca' }
 
 export default function Tambah() {
   const [form, setForm] = useState(AWAL)
@@ -37,10 +37,10 @@ export default function Tambah() {
 
       <label htmlFor="status">Status</label>
       <select id="status" name="status" value={form.status} onChange={ubah}>
-        <option>sudah dibaca</option>
-        <option>belum dibaca</option>
-        <option>sedang dibaca</option>
-        <option>ingin dibeli</option>
+        <option value="sudah dibaca">sudah dibaca</option>
+        <option value="belum dibaca">belum dibaca</option>
+        <option value="sedang dibaca">sedang dibaca</option>
+        <option value="ingin dibeli">ingin dibeli</option>
       </select>
 
       <label htmlFor="tahunTerbit">Tahun Terbit</label>

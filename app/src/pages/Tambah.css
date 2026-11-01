@@ -36,7 +36,7 @@
   cursor: pointer;
 }
 .formulir button:hover {
-  background: #436347; /* Efek hover jadi hijau lebih tua */
+  background: #436347; 
 }
 @media (max-width: 480px) {
   .formulir button {
